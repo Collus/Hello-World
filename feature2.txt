@@ -1,2 +1,2 @@
 This is used to simulate feature2.
-I just tried [git add filename] and [git commit -m "comments"].
+I just tried £¨git add filename£© and £¨git commit -m "comments"£©.
